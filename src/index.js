@@ -6,7 +6,7 @@ const bodyContainer = document.querySelector('#content')
 
 pageLoadGenerate()
 
-menuBtn.addEventListener('onclick', () => {
+menuBtn.addEventListener('click', () => {
     clearPage()
     loadMenuPage()
 
