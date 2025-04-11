@@ -1,0 +1,5 @@
+function pageLoadGenerate(){
+    
+}
+
+export{pageLoadGenerate}
